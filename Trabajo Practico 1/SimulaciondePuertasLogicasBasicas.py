@@ -26,3 +26,7 @@ def simulacion_puertas_logicas():
 
 # Ejecucion de la funcion
 simulacion_puertas_logicas()
+
+# SEPARAR LA FUNCION EN 2 PARA HACERLA MAS LIMPIA
+# PRIMERO QUE VALIDE QUE LOS VALORES SON 0 O 1
+# SEGUNDO QUE HAGA LA SIMULACION DE LAS PUERTAS LOGICAS
